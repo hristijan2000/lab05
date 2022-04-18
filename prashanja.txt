@@ -1,0 +1,12 @@
+1.Kako se vika glavnata funkcija vo C++?; a. void; b. main; c. proba;
+2.Kako se deklarira promenliva za realen broj?; a.int; b.bool; c.float;
+3.Koja funkcija se koristi za otvoranje na datoteka?; a.open; b.fopen; c.otvori
+4.Koj gi izmisli bool operaciite?; a.Nikola Tesla; b.George Bool; c.Tom Cruse;
+5.Koj e glaven grad na Makedonija?; a.Debar; b.Skopje; c.Bitola;
+6.Koj fakultet za programiranje se naogja vo bitola?; a.FIKT; b.FINKI; c.Gradezen;
+7.Za front-web programiranje se koristi?; a.Java; b.c++; c.HTML;
+8.Kako se deklariraat strukturi vo c++?; a.struct; b.class; c.int;
+9.Kako se deklariraat matrici vo c++?; a.float; b.int max[100][100]; c.char pole; d.float max[100][100];
+10.Kako se deklarira karakter vo c++?; a.int; b.char znak; c.bool true; d.char znak = 'a';
+11.So koja komanda se pravi vnesuvanje na vrednosti?; a.endl; b.cin; c.cout; d.scanf;
+12.So koja komanda se ispishuvaat vrednosti?; a.fopen; b.cin; c.cout; d.printf;
